@@ -1,0 +1,8 @@
+C:\Users\weske\Desktop\FinalPart3_Start\GameLibrary\GameLibrary\bin\Debug\GameLibrary.exe.config
+C:\Users\weske\Desktop\FinalPart3_Start\GameLibrary\GameLibrary\bin\Debug\GameLibrary.exe
+C:\Users\weske\Desktop\FinalPart3_Start\GameLibrary\GameLibrary\bin\Debug\GameLibrary.pdb
+C:\Users\weske\Desktop\FinalPart3_Start\GameLibrary\GameLibrary\obj\Debug\GameLibrary.csproj.AssemblyReference.cache
+C:\Users\weske\Desktop\FinalPart3_Start\GameLibrary\GameLibrary\obj\Debug\GameLibrary.csproj.CoreCompileInputs.cache
+C:\Users\weske\Desktop\FinalPart3_Start\GameLibrary\GameLibrary\obj\Debug\GameLibrary.exe
+C:\Users\weske\Desktop\FinalPart3_Start\GameLibrary\GameLibrary\obj\Debug\GameLibrary.pdb
+C:\Users\weske\Desktop\FinalPart3_Start\GameLibrary\GameLibrary\obj\Debug\GameLibrary.exe.config
